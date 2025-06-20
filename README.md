@@ -56,4 +56,3 @@ Terdapat beberapa tools yang digunakan untuk mempermudah proses analisis data, y
 Dashboard Inteactive Hasil Analisis data penjualan mobil dapat diakses melalui : https://public.tableau.com/app/profile/pujo.prasetyo.aji/viz/Book1_17454778947720/AnalisisPenjualanMobil?publish=yes
 
 Dataset yang digunakan bisa diakses melalui url = https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
-Dokumentasi python = https://docs.python.org/3/
