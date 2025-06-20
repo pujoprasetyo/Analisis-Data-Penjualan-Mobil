@@ -20,22 +20,22 @@ Dataset yang digunakan pada project ini berasal dari Kaggle dengan judul "Vechic
 Dataset berisikan lebih dari 500 ribu baris data yang terdiri dari 16 kolom. Dataset tersebut berisi data penjualan mobil di USA pada tahun 2014 hingga 2015. Deskripsi dataset lebih lanjut dapat dilihat dari tabel dibawah.
  
 
- 0   year          Tahun produksi mobil  Numerical \
- 1   make          Produsen mobil        Categorical \
- 2   model         Model mobil           Categorical \
- 3   trim          Kode / Alias mobil    Categorical \
- 4   body          Jenis body mobil      Categorical \
- 5   transmission  Jenis Transmisi       Categorical \
- 6   vin           Nomor Rangka          Categorical \
- 7   state         Daerah Asal           Categorical \
- 8   condition     Index kondisi mobil   Numerical \
- 9   odometer      Jarak tempuh mobil    Numerical \
- 10  color         Warna mobil           Categorical \
- 11  interior      Jenis interior        Categorical \
- 12  seller        Nama Penjual          Categorical \
- 13  mmr           Standar harga pasar   Numerical \
- 14  sellingprice  Harga jual            Numerical \
- 15  saledate      Tanggal penjualan     Categorical \
+ 0   year -         Tahun produksi mobil  Numerical \
+ 1   make -         Produsen mobil        Categorical \
+ 2   model -        Model mobil           Categorical \
+ 3   trim -         Kode / Alias mobil    Categorical \
+ 4   body -         Jenis body mobil      Categorical \
+ 5   transmission - Jenis Transmisi       Categorical \
+ 6   vin -          Nomor Rangka          Categorical \
+ 7   state -         Daerah Asal           Categorical \
+ 8   condition -     Index kondisi mobil   Numerical \
+ 9   odometer -     Jarak tempuh mobil    Numerical \
+ 10  color -        Warna mobil           Categorical \
+ 11  interior -     Jenis interior        Categorical \
+ 12  seller -       Nama Penjual          Categorical \
+ 13  mmr -          Standar harga pasar   Numerical \
+ 14  sellingprice - Harga jual            Numerical \
+ 15  saledate -     Tanggal penjualan     Categorical 
 
 
 ## Method
